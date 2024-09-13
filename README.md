@@ -1,39 +1,28 @@
 <h1 align="center">Hi 👋, I'm Darshankumar Patel</h1>
-<h3 align="center">A Passionate Data Analyst | Business intelligence developer in canada</h3>
+<h3 align="center">A Passionate Data Analyst | Business Intelligence Developer in Canada</h3>
 
-- 🤝 I’m looking for help with **New Jobs**
+- 🤝 I’m looking for new job opportunities and challenges.
+- 👨‍💻 All of my projects are available at [Portfolio](https://darshankumarpatel02.github.io/Porfolio_Site/)
+- 📫 How to reach me: **[darshanpatel0298@gmail.com](mailto:darshanpatel0298@gmail.com)**
 
-- 👨‍💻 All of my projects are available at [https://darshankumarpatel02.github.io/Porfolio_Site/](https://darshankumarpatel02.github.io/Porfolio_Site/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/patel-darshankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel-darshankumar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/darshanpatel3103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshanpatel3103" height="30" width="40" /></a>
+</p>
 
-- 📫 How to reach me **darshanpatel0298@gmail.com**
-
-## 🚀 Skills & Expertise:
-![Skills](https://img.shields.io/badge/Skills-Data%20Analysis%20%7C%20Software%20Development%20%7C%20Programming-brightgreen)
-
-- **Programming Languages**: ![Languages](https://img.shields.io/badge/Languages-C%23%20%7C%20Python%20%7C%20SQL%20%7C%20R-blue)  
-- **Tools & Technologies**: ![Tools](https://img.shields.io/badge/Tools-Tableau%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20PySpark%20%7C%20Hadoop%20%7C%20Spark-lightgrey)  
-- **Data Analysis**: ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Visualization%20%7C%20Machine%20Learning%20%7C%20Statistical%20Analysis%20%7C%20Data%20Mining%20%7C%20ETL%20Processes-yellow)  
-- **Software Development**: ![Software Development](https://img.shields.io/badge/Software%20Development-Windows%20Forms%20%7C%20SQL%20Server%20%7C%20TCP/IP%20Protocols%20%7C%20ReactJS%20%7C%20NodeJS-orange)  
-- **Technical Skills**: ![Technical Skills](https://img.shields.io/badge/Technical%20Skills-SQL%20Server%20%7C%20MySQL%20%7C%20SQLite%20%7C%20Pandas%20%7C%20NumPy%20%7C%20SciPy%20%7C%20MatPlotLib%20%7C%20BeautifulSoup%20%7C%20seaborn-lightblue)
-
-## 📈 Projects:
-- **Hiring Search Tool**: Developed a tool using ReactJS, NodeJS, and Firebase, with over 25,000 users.
-- **Retail Sales Analysis Dashboard**: Visualized FMCG retail data using Tableau.
-- **Customer Segmentation Using ML**: Applied clustering algorithms to segment customers and visualize insights.
-- **Netflix Data Analysis Dashboard**: Automated data preprocessing with Python and analyzed data using Hadoop, HDFS, Spark, Zeppelin, and Tableau.
-
-## 🧠 Learning & Development:
-- **Certifications**: Data Analytics Bootcamp, SQL Essential Training
-- **Degrees**: Graduate Certificate in Information Technology Solutions, Bachelor's Degree in Computer Science & Engineering
-
-## 🌟 Interests:
-- Data Analysis & Visualization
-- Software Development
-- Chess ♟️ & Football ⚽
-- Gaming 🎮
-
-## 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Blog](https://yourblogurl.com)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Power_BI_Logo.png/1024px-Power_BI_Logo.png" alt="Power BI" width="40" height="40"/></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/></a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/></a>
+<a href="https://www.excel-easy.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Excel_Logo_2013.svg" alt="Excel" width="40" height="40"/></a>
+</p>
