@@ -7,11 +7,33 @@
 
 - 📫 How to reach me **darshanpatel0298@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/patel-darshankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel-darshankumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshanpatel3103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshanpatel3103" height="30" width="40" /></a>
-</p>
+## 🚀 Skills & Expertise:
+![Skills](https://img.shields.io/badge/Skills-Data%20Analysis%20%7C%20Software%20Development%20%7C%20Programming-brightgreen)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- **Programming Languages**: ![Languages](https://img.shields.io/badge/Languages-C%23%20%7C%20Python%20%7C%20SQL%20%7C%20R-blue)  
+- **Tools & Technologies**: ![Tools](https://img.shields.io/badge/Tools-Tableau%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20PySpark%20%7C%20Hadoop%20%7C%20Spark-lightgrey)  
+- **Data Analysis**: ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Visualization%20%7C%20Machine%20Learning%20%7C%20Statistical%20Analysis%20%7C%20Data%20Mining%20%7C%20ETL%20Processes-yellow)  
+- **Software Development**: ![Software Development](https://img.shields.io/badge/Software%20Development-Windows%20Forms%20%7C%20SQL%20Server%20%7C%20TCP/IP%20Protocols%20%7C%20ReactJS%20%7C%20NodeJS-orange)  
+- **Technical Skills**: ![Technical Skills](https://img.shields.io/badge/Technical%20Skills-SQL%20Server%20%7C%20MySQL%20%7C%20SQLite%20%7C%20Pandas%20%7C%20NumPy%20%7C%20SciPy%20%7C%20MatPlotLib%20%7C%20BeautifulSoup%20%7C%20seaborn-lightblue)
+
+## 📈 Projects:
+- **Hiring Search Tool**: Developed a tool using ReactJS, NodeJS, and Firebase, with over 25,000 users.
+- **Retail Sales Analysis Dashboard**: Visualized FMCG retail data using Tableau.
+- **Customer Segmentation Using ML**: Applied clustering algorithms to segment customers and visualize insights.
+- **Netflix Data Analysis Dashboard**: Automated data preprocessing with Python and analyzed data using Hadoop, HDFS, Spark, Zeppelin, and Tableau.
+
+## 🧠 Learning & Development:
+- **Certifications**: Data Analytics Bootcamp, SQL Essential Training
+- **Degrees**: Graduate Certificate in Information Technology Solutions, Bachelor's Degree in Computer Science & Engineering
+
+## 🌟 Interests:
+- Data Analysis & Visualization
+- Software Development
+- Chess ♟️ & Football ⚽
+- Gaming 🎮
+
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [GitHub](https://github.com/yourusername)
+- [Blog](https://yourblogurl.com)
+
