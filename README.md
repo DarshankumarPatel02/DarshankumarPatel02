@@ -12,7 +12,7 @@ I’m a dedicated Data Analyst and Business Intelligence Developer with a passio
 - **Excel**: Advanced functions, pivot tables, and data manipulation.
 
 **Programming & Tools:**
-- **Python**: Data analysis, machine learning (Pandas, Scikit-learn, Seaborn).
+- **Python**: Data cleaning & analysis,Web Scraping, machine learning (Pandas, Scikit-learn, Seaborn).
 - **R**: Statistical analysis and visualization.
 - **SQL**: Querying and managing databases (SQL Server, MySQL, SQLite).
 - **Big Data Technologies**: Hadoop, Spark.
