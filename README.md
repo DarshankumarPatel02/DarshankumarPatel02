@@ -21,6 +21,18 @@
 
 <h3 align="left">Skills & Technologies:</h3>
 <p align="left">
+  <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Power_BI_Logo.png/1024px-Power_BI_Logo.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.tableau.com/sites/default/files/2021-02/Tableau-Logo-2018.png" alt="Tableau" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Excel_Logo_2013.svg/1200px-Microsoft_Excel_Logo_2013.svg.png" alt="Excel" width="40" height="40"/>
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   </a>
@@ -39,12 +51,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Power_BI_Logo.png/1024px-Power_BI_Logo.png" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-  </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
   </a>
@@ -53,9 +59,6 @@
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.excel-easy.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Excel_Logo_2013.svg" alt="Excel" width="40" height="40"/>
   </a>
 </p>
 
@@ -84,4 +87,3 @@
   <li>Technical Documentation</li>
   <li>Stakeholder Management</li>
 </ul>
-
