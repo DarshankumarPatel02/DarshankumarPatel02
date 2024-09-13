@@ -22,10 +22,10 @@
 <h3 align="left">Skills & Technologies:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/power-bi" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Power_BI_Logo.png/1024px-Power_BI_Logo.png" alt="Power BI" width="40" height="40"/>
+    <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tableau.com/sites/default/files/2021-02/Tableau-Logo-2018.png" alt="Tableau" width="40" height="40"/>
+    <img src="https://logos-world.net/tableau-logo/" alt="Tableau" width="40" height="40"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
