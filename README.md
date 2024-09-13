@@ -1,4 +1,4 @@
-# Hi there, I'm Darshankumar Patel 👋
+# <h1 align="center">Hi 👋, I'm Darshankumar Patel</h1>
 
 ## 👨‍💻 About Me
 
