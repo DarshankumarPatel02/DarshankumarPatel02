@@ -17,10 +17,6 @@ I’m a dedicated Data Analyst and Business Intelligence Developer with a passio
 - **SQL**: Querying and managing databases (SQL Server, MySQL, SQLite).
 - **Big Data Technologies**: Hadoop, Spark.
 
-## 🚀 Portfolio
-
-Check out my projects and portfolio at [Darshankumar Patel's Portfolio](https://darshankumarpatel02.github.io/Porfolio_Site/).
-
 ## 📬 Contact Me
 
 Feel free to reach out via email at [darshanpatel0298@gmail.com](mailto:darshanpatel0298@gmail.com).
