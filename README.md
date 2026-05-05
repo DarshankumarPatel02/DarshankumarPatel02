@@ -6,16 +6,47 @@ I’m a dedicated Data Analyst and Business Intelligence Developer with a passio
 
 ## 🌟 Skills & Expertise
 
-**Data Analysis & Visualization:**
-- **Power BI**: Creating interactive and insightful dashboards.
-- **Tableau**: Building comprehensive visualizations and reports.
-- **Excel**: Advanced functions, pivot tables, and data manipulation.
+### 📊 Data Analytics & Visualization
+- **Power BI**: Interactive dashboards, DAX measures, data modeling, Power Query transformations  
+- **Tableau**: Dashboard development, data visualization, storytelling with insights  
+- **Excel**: Advanced formulas, Pivot Tables, Power Query, data cleaning & reporting  
 
-**Programming & Tools:**
-- **Python**: Data cleaning & analysis,Web Scraping, machine learning (Pandas, Scikit-learn, Seaborn).
-- **R**: Statistical analysis and visualization.
-- **SQL**: Querying and managing databases (SQL Server, MySQL, SQLite).
-- **Big Data Technologies**: Hadoop, Spark.
+---
+
+### 🧠 Programming & Data Science
+- **Python**: Data analysis, automation, web scraping, machine learning  
+  *(Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)*  
+- **R**: Statistical analysis and data visualization  
+  *(dplyr, tidyr, ggplot2)*  
+- **SQL**: Data querying, joins, aggregations, database management  
+  *(MySQL, SQL Server, SQLite)*  
+
+---
+
+### 🤖 Machine Learning & Analytics
+- Regression, Classification, Clustering (K-Means)  
+- Feature engineering & model evaluation  
+- Predictive analytics & exploratory data analysis (EDA)  
+
+---
+
+### ⚙️ Data Engineering & Automation
+- Web Scraping: BeautifulSoup, Scrapy, Selenium  
+- Data pipelines & ETL concepts  
+- Data cleaning and transformation workflows  
+
+---
+
+### 🗃️ Big Data Technologies
+- Hadoop (basic understanding)  
+- Apache Spark (intro level / academic exposure)  
+
+---
+
+### 🔧 Tools & Collaboration
+- Git, GitHub, GitLab  
+- Jira, Lucidchart  
+- Data documentation & reporting  
 
 ## 📬 Contact Me
 
